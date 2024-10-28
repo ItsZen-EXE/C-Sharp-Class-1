@@ -1,0 +1,14 @@
+C:\Users\djbla\source\repos\Restaurant-Menu-NathanK\bin\Debug\net8.0\Restaurant-Menu-NathanK.exe
+C:\Users\djbla\source\repos\Restaurant-Menu-NathanK\bin\Debug\net8.0\Restaurant-Menu-NathanK.deps.json
+C:\Users\djbla\source\repos\Restaurant-Menu-NathanK\bin\Debug\net8.0\Restaurant-Menu-NathanK.runtimeconfig.json
+C:\Users\djbla\source\repos\Restaurant-Menu-NathanK\bin\Debug\net8.0\Restaurant-Menu-NathanK.dll
+C:\Users\djbla\source\repos\Restaurant-Menu-NathanK\bin\Debug\net8.0\Restaurant-Menu-NathanK.pdb
+C:\Users\djbla\source\repos\Restaurant-Menu-NathanK\obj\Debug\net8.0\Restaurant-Menu-NathanK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djbla\source\repos\Restaurant-Menu-NathanK\obj\Debug\net8.0\Restaurant-Menu-NathanK.AssemblyInfoInputs.cache
+C:\Users\djbla\source\repos\Restaurant-Menu-NathanK\obj\Debug\net8.0\Restaurant-Menu-NathanK.AssemblyInfo.cs
+C:\Users\djbla\source\repos\Restaurant-Menu-NathanK\obj\Debug\net8.0\Restaurant-Menu-NathanK.csproj.CoreCompileInputs.cache
+C:\Users\djbla\source\repos\Restaurant-Menu-NathanK\obj\Debug\net8.0\Restaurant-Menu-NathanK.dll
+C:\Users\djbla\source\repos\Restaurant-Menu-NathanK\obj\Debug\net8.0\refint\Restaurant-Menu-NathanK.dll
+C:\Users\djbla\source\repos\Restaurant-Menu-NathanK\obj\Debug\net8.0\Restaurant-Menu-NathanK.pdb
+C:\Users\djbla\source\repos\Restaurant-Menu-NathanK\obj\Debug\net8.0\Restaurant-Menu-NathanK.genruntimeconfig.cache
+C:\Users\djbla\source\repos\Restaurant-Menu-NathanK\obj\Debug\net8.0\ref\Restaurant-Menu-NathanK.dll

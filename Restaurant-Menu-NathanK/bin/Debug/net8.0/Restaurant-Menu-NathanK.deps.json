@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Restaurant-Menu-NathanK/1.0.0": {
+        "runtime": {
+          "Restaurant-Menu-NathanK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Restaurant-Menu-NathanK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
